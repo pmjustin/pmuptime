@@ -15,17 +15,17 @@ sites:
     url: https://willandtrustindy.com/
   - name: Arvada Tri # Added 1/12/2022
     url: https://arvadatri.com/
-  - name: Fast Lane Swimming
+  - name: Fast Lane Swimming # Added 1/12/2022
     url: https://fastlaneswimming-colorado.com/
-  - name: Fish of Westminister
+  - name: Fish of Westminister # Added 1/12/2022
     url: https://fishofwestminster.org/
-  - name: Garramones Pizza
+  - name: Garramones Pizza # Added 1/12/2022
     url: https://garramonespizza.com/
-  - name: Higher Mind Healing
+  - name: Higher Mind Healing # Added 1/12/2022
     url: https://highermindhealing.net/
-  - name: Mindy Arbuckle
+  - name: Mindy Arbuckle # Added 1/12/2022
     url: https://mindyarbuckle.com/
-  - name: Ulonda Faye
+  - name: Ulonda Faye # Added 1/12/2022
     url: https://ulondafaye.com/
 
 status-website:
