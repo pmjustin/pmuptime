@@ -17,21 +17,21 @@ sites:
     url: https://arvadatri.com/
 
 status-website:
+    theme: dark # status-website theme
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#  cname: demo.upptime.js.org
-#    name: Personable Media
-#    theme: dark # status-website theme
-#    baseUrl: /pmuptime
-#    logoUrl: https://personablemedia.com/wp-content/uploads/2020/10/pm_websitepartner_300px.png # Personable Media logo
-#    name: Personable Media Client Site Monitoring
-#    introTitle: "**PMUPTIME** is the Personable Meida Client Site Monitoring service powered entirely by GitHub."
-#    introMessage: "Below is the Client Site status reports"
-#  navbar:
-#    - title: Status
-#      href: /
-#    - title: GitHub
-#      href: https://github.com/pmjustin/pmuptime
+    #cname: demo.upptime.js.org
+    name: Personable Media
+    baseUrl: /pmuptime
+    logoUrl: https://personablemedia.com/wp-content/uploads/2020/10/pm_websitepartner_300px.png # Personable Media logo
+    name: Personable Media Client Site Monitoring
+    introTitle: "**PMUPTIME** is the Personable Meida Client Site Monitoring service powered entirely by GitHub."
+    introMessage: "Below is the Client Site status reports"
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/pmjustin/pmuptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
