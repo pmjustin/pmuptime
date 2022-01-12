@@ -3,18 +3,30 @@ owner: pmjustin # Your GitHub organization or username, where this repository li
 repo: pmuptime # The name of this repository
 
 sites:
-  - name: Personable Media
+  - name: Personable Media # Added 1/11/2022
     url: https://personablemedia.com/
-  - name: Estate Planning Lead Pros
+  - name: Estate Planning Lead Pros # Added 1/11/2022
     url: https://estateplanningleadpros.com/
-  - name: Rost Motors
+  - name: Rost Motors # Added 1/11/2022
     url: https://rostmotor.com/
-  - name: Michael Bailey Law Office
+  - name: Michael Bailey Law Office # Added 1/12/2022
     url: https://michaelbaileylawllc.com/
-  - name: Saeed & Little Law
+  - name: Saeed & Little Law # Added 1/12/2022
     url: https://willandtrustindy.com/
-  - name: Arvada Tri
+  - name: Arvada Tri # Added 1/12/2022
     url: https://arvadatri.com/
+  - name: Fast Lane Swimming
+    url: https://fastlaneswimming-colorado.com/
+  - name: Fish of Westminister
+    url: https://fishofwestminster.org/
+  - name: Garramones Pizza
+    url: https://garramonespizza.com/
+  - name: Higher Mind Healing
+    url: https://highermindhealing.net/
+  - name: Mindy Arbuckle
+    url: https://mindyarbuckle.com/
+  - name: Ulonda Faye
+    url: https://ulondafaye.com/
 
 status-website:
     theme: night # status-website theme
