@@ -166,18 +166,20 @@
     "url": "https://glamorousornot.com/",
     "icon": "https://favicons.githubusercontent.com/glamorousornot.com",
     "slug": "glamorous-or-not",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 405,
     "timeDay": 650,
     "timeWeek": 405,
     "timeMonth": 405,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-14": 1
+    }
   },
   {
     "name": "Higher Mind Healing",
