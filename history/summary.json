@@ -202,9 +202,9 @@
     "url": "https://mindyarbuckle.com/",
     "icon": "https://favicons.githubusercontent.com/mindyarbuckle.com",
     "slug": "mindy-arbuckle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -213,7 +213,9 @@
     "timeWeek": 253,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-29": 0
+    }
   },
   {
     "name": "Ulonda Faye",
