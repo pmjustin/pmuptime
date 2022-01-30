@@ -166,9 +166,9 @@
     "url": "https://glamorousornot.com/",
     "icon": "https://favicons.githubusercontent.com/glamorousornot.com",
     "slug": "glamorous-or-not",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +177,9 @@
     "timeWeek": 177,
     "timeMonth": 224,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-30": 0
+    }
   },
   {
     "name": "Higher Mind Healing",
