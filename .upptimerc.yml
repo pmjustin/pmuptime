@@ -25,8 +25,8 @@ sites:
     url: https://glamorousornot.com/
   - name: Higher Mind Healing # Added 1/12/2022
     url: https://highermindhealing.net/
-  - name: Mindy Arbuckle # Added 1/12/2022
-    url: https://mindyarbuckle.com/
+  #- name: Mindy Arbuckle # Added 1/12/2022 - Cancelled Services
+    #url: https://mindyarbuckle.com/
   - name: Ulonda Faye # Added 1/12/2022
     url: https://ulondafaye.com/
 
