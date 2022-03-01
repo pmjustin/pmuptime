@@ -85,7 +85,7 @@
     "time": 490,
     "timeDay": 134,
     "timeWeek": 148,
-    "timeMonth": 460,
+    "timeMonth": 433,
     "timeYear": 490,
     "dailyMinutesDown": {}
   },
@@ -112,10 +112,10 @@
     "url": "https://fastlaneswimming-colorado.com/",
     "icon": "https://favicons.githubusercontent.com/fastlaneswimming-colorado.com",
     "slug": "fast-lane-swimming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -123,7 +123,9 @@
     "timeWeek": 149,
     "timeMonth": 262,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 1
+    }
   },
   {
     "name": "Fish of Westminister",
@@ -148,9 +150,9 @@
     "url": "https://garramonespizza.com/",
     "icon": "https://favicons.githubusercontent.com/garramonespizza.com",
     "slug": "garramones-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +161,9 @@
     "timeWeek": 122,
     "timeMonth": 253,
     "timeYear": 303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Glamorous Or Not",
@@ -174,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 298,
     "timeDay": 410,
-    "timeWeek": 444,
+    "timeWeek": 443,
     "timeMonth": 367,
     "timeYear": 298,
     "dailyMinutesDown": {}
