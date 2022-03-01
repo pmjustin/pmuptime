@@ -112,19 +112,19 @@
     "url": "https://fastlaneswimming-colorado.com/",
     "icon": "https://favicons.githubusercontent.com/fastlaneswimming-colorado.com",
     "slug": "fast-lane-swimming",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 120,
-    "timeWeek": 149,
-    "timeMonth": 262,
-    "timeYear": 298,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 302,
+    "timeDay": 317,
+    "timeWeek": 194,
+    "timeMonth": 270,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-03-01": 1
+      "2022-03-01": 17
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://garramonespizza.com/",
     "icon": "https://favicons.githubusercontent.com/garramonespizza.com",
     "slug": "garramones-pizza",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 110,
-    "timeWeek": 122,
-    "timeMonth": 253,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 323,
+    "timeDay": 757,
+    "timeWeek": 282,
+    "timeMonth": 291,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2022-03-01": 0
+      "2022-03-01": 17
     }
   },
   {
