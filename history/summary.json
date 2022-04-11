@@ -4,10 +4,10 @@
     "url": "https://personablemedia.com/",
     "icon": "https://favicons.githubusercontent.com/personablemedia.com",
     "slug": "personable-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
@@ -15,7 +15,9 @@
     "timeWeek": 114,
     "timeMonth": 129,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 2
+    }
   },
   {
     "name": "Estate Planning Lead Pros",
@@ -216,11 +218,11 @@
     "icon": "https://favicons.githubusercontent.com/ulondafaye.com",
     "slug": "ulonda-faye",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 310,
     "timeDay": 96,
     "timeWeek": 394,
