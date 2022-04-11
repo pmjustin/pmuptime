@@ -4,19 +4,19 @@
     "url": "https://personablemedia.com/",
     "icon": "https://favicons.githubusercontent.com/personablemedia.com",
     "slug": "personable-media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 73,
-    "timeWeek": 114,
-    "timeMonth": 129,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 449,
+    "timeDay": 76,
+    "timeWeek": 109,
+    "timeMonth": 128,
+    "timeYear": 449,
     "dailyMinutesDown": {
-      "2022-04-11": 2
+      "2022-04-11": 10
     }
   },
   {
