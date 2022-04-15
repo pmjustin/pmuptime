@@ -197,19 +197,19 @@
     "url": "https://highermindhealing.net/",
     "icon": "https://favicons.githubusercontent.com/highermindhealing.net",
     "slug": "higher-mind-healing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 297,
-    "timeWeek": 205,
-    "timeMonth": 257,
-    "timeYear": 274,
+    "time": 272,
+    "timeDay": 237,
+    "timeWeek": 196,
+    "timeMonth": 252,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-04-15": 0
+      "2022-04-15": 6
     }
   },
   {
