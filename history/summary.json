@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 52,
-    "timeWeek": 128,
+    "time": 435,
+    "timeDay": 86,
+    "timeWeek": 118,
     "timeMonth": 129,
-    "timeYear": 438,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 34,
-    "timeWeek": 361,
+    "time": 328,
+    "timeDay": 57,
+    "timeWeek": 307,
     "timeMonth": 369,
-    "timeYear": 330,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 332,
-    "timeDay": 492,
-    "timeWeek": 247,
-    "timeMonth": 259,
-    "timeYear": 332,
+    "time": 334,
+    "timeDay": 497,
+    "timeWeek": 300,
+    "timeMonth": 258,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-04-06": 15
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 301,
-    "timeDay": 58,
-    "timeWeek": 121,
-    "timeMonth": 117,
-    "timeYear": 301,
+    "time": 298,
+    "timeDay": 68,
+    "timeWeek": 109,
+    "timeMonth": 118,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2022-03-11": 34
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 422,
-    "timeDay": 308,
-    "timeWeek": 394,
-    "timeMonth": 386,
-    "timeYear": 422,
+    "time": 423,
+    "timeDay": 329,
+    "timeWeek": 444,
+    "timeMonth": 374,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2022-03-11": 33
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 32,
-    "timeWeek": 365,
-    "timeMonth": 473,
-    "timeYear": 421,
+    "time": 418,
+    "timeDay": 61,
+    "timeWeek": 310,
+    "timeMonth": 363,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 289,
-    "timeDay": 770,
-    "timeWeek": 456,
+    "time": 290,
+    "timeDay": 792,
+    "timeWeek": 498,
     "timeMonth": 306,
-    "timeYear": 289,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2022-03-01": 17
     }
@@ -144,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 319,
-    "timeDay": 42,
-    "timeWeek": 355,
+    "time": 316,
+    "timeDay": 34,
+    "timeWeek": 305,
     "timeMonth": 332,
-    "timeYear": 319,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2022-03-11": 33
     }
@@ -164,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 285,
-    "timeDay": 282,
-    "timeWeek": 454,
-    "timeMonth": 280,
-    "timeYear": 285,
+    "time": 286,
+    "timeDay": 283,
+    "timeWeek": 237,
+    "timeMonth": 279,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2022-03-11": 32,
       "2022-03-01": 17
@@ -185,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 221,
-    "timeWeek": 344,
-    "timeMonth": 329,
-    "timeYear": 317,
+    "time": 315,
+    "timeDay": 82,
+    "timeWeek": 300,
+    "timeMonth": 330,
+    "timeYear": 315,
     "dailyMinutesDown": {}
   },
   {
@@ -198,19 +198,17 @@
     "icon": "https://favicons.githubusercontent.com/highermindhealing.net",
     "slug": "higher-mind-healing",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 284,
-    "timeDay": 535,
-    "timeWeek": 319,
-    "timeMonth": 287,
-    "timeYear": 284,
-    "dailyMinutesDown": {
-      "2022-04-15": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 285,
+    "timeDay": 524,
+    "timeWeek": 351,
+    "timeMonth": 286,
+    "timeYear": 285,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ulonda Faye",
@@ -223,11 +221,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 311,
-    "timeDay": 58,
-    "timeWeek": 324,
-    "timeMonth": 333,
-    "timeYear": 311,
+    "time": 309,
+    "timeDay": 97,
+    "timeWeek": 284,
+    "timeMonth": 334,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2022-03-11": 32
     }
