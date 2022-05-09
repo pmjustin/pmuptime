@@ -22,19 +22,19 @@
     "url": "https://estateplanningleadpros.com/",
     "icon": "https://favicons.githubusercontent.com/estateplanningleadpros.com",
     "slug": "estate-planning-lead-pros",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 37,
-    "timeWeek": 460,
-    "timeMonth": 390,
-    "timeYear": 343,
+    "time": 345,
+    "timeDay": 275,
+    "timeWeek": 467,
+    "timeMonth": 394,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2022-05-09": 1
+      "2022-05-09": 7
     }
   },
   {
@@ -167,7 +167,7 @@
     "uptime": "93.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.75%",
+    "uptimeMonth": "76.74%",
     "uptimeYear": "93.92%",
     "time": 273,
     "timeDay": 0,
@@ -175,7 +175,7 @@
     "timeMonth": 207,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-05-09": 1170,
+      "2022-05-09": 1176,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
