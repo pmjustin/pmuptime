@@ -19,8 +19,8 @@ sites:
     url: https://fastlaneswimming-colorado.com/
   - name: Fish of Westminister # Added 1/12/2022
     url: https://fishofwestminster.org/
-  - name: Garramones Pizza # Added 1/12/2022
-    url: https://garramonespizza.com/
+  #- name: Garramones Pizza # Added 1/12/2022 - Cancelled Services
+    #url: https://garramonespizza.com/
   - name: Glamorous Or Not # Added 1/12/2022
     url: https://glamorousornot.com/
   - name: Higher Mind Healing # Added 1/12/2022
