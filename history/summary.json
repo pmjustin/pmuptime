@@ -22,10 +22,10 @@
     "url": "https://estateplanningleadpros.com/",
     "icon": "https://favicons.githubusercontent.com/estateplanningleadpros.com",
     "slug": "estate-planning-lead-pros",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
@@ -33,7 +33,9 @@
     "timeWeek": 265,
     "timeMonth": 365,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 2
+    }
   },
   {
     "name": "Rost Motors",
@@ -102,10 +104,10 @@
     "url": "https://arvadatri.com/",
     "icon": "https://favicons.githubusercontent.com/arvadatri.com",
     "slug": "arvada-tri",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
@@ -113,7 +115,9 @@
     "timeWeek": 272,
     "timeMonth": 365,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 1
+    }
   },
   {
     "name": "Fast Lane Swimming",
