@@ -11,8 +11,8 @@ sites:
     url: https://rostmotor.com/
   - name: Michael Bailey Law Office # Added 1/12/2022
     url: https://michaelbaileylawllc.com/
-  - name: Saeed & Little Law # Added 1/12/2022
-    url: https://willandtrustindy.com/
+  #- name: Saeed & Little Law # Added 1/12/2022 - Cancelled Services
+    #url: https://willandtrustindy.com/
   - name: Arvada Tri # Added 1/12/2022
     url: https://arvadatri.com/
   - name: Fast Lane Swimming # Added 1/12/2022
