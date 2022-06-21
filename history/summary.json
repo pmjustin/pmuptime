@@ -83,9 +83,9 @@
     "url": "https://willandtrustindy.com/",
     "icon": "https://favicons.githubusercontent.com/willandtrustindy.com",
     "slug": "saeed-and-little-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -95,6 +95,7 @@
     "timeMonth": 561,
     "timeYear": 429,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-04": 24,
       "2022-03-11": 33
     }
