@@ -85,9 +85,9 @@
     "url": "https://arvadatri.com/",
     "icon": "https://favicons.githubusercontent.com/arvadatri.com",
     "slug": "arvada-tri",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -97,6 +97,7 @@
     "timeMonth": 398,
     "timeYear": 386,
     "dailyMinutesDown": {
+      "2022-08-04": 0,
       "2022-07-29": 37
     }
   },
