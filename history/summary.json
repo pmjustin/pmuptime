@@ -130,18 +130,19 @@
     "url": "https://fishofwestminster.org/",
     "icon": "https://favicons.githubusercontent.com/fishofwestminster.org",
     "slug": "fish-of-westminister",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 334,
-    "timeDay": 1610,
-    "timeWeek": 437,
-    "timeMonth": 399,
-    "timeYear": 334,
+    "time": 338,
+    "timeDay": 1432,
+    "timeWeek": 539,
+    "timeMonth": 425,
+    "timeYear": 338,
     "dailyMinutesDown": {
+      "2022-08-12": 1,
       "2022-07-29": 35,
       "2022-03-11": 33
     }
@@ -151,18 +152,20 @@
     "url": "https://glamorousornot.com/",
     "icon": "https://favicons.githubusercontent.com/glamorousornot.com",
     "slug": "glamorous-or-not",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 464,
-    "timeWeek": 261,
-    "timeMonth": 314,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 318,
+    "timeDay": 968,
+    "timeWeek": 413,
+    "timeMonth": 350,
+    "timeYear": 318,
+    "dailyMinutesDown": {
+      "2022-08-12": 1
+    }
   },
   {
     "name": "Higher Mind Healing",
@@ -190,9 +193,9 @@
     "url": "https://ulondafaye.com/",
     "icon": "https://favicons.githubusercontent.com/ulondafaye.com",
     "slug": "ulonda-faye",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -202,6 +205,7 @@
     "timeMonth": 347,
     "timeYear": 308,
     "dailyMinutesDown": {
+      "2022-08-12": 0,
       "2022-03-11": 32
     }
   }
