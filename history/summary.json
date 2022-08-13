@@ -24,9 +24,9 @@
     "slug": "estate-planning-lead-pros",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 341,
     "timeDay": 584,
@@ -34,7 +34,6 @@
     "timeMonth": 380,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-08-13": 5,
       "2022-07-29": 37
     }
   },
@@ -131,18 +130,19 @@
     "url": "https://fishofwestminster.org/",
     "icon": "https://favicons.githubusercontent.com/fishofwestminster.org",
     "slug": "fish-of-westminister",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 343,
-    "timeDay": 1476,
-    "timeWeek": 659,
-    "timeMonth": 444,
-    "timeYear": 343,
+    "time": 368,
+    "timeDay": 3711,
+    "timeWeek": 1187,
+    "timeMonth": 601,
+    "timeYear": 368,
     "dailyMinutesDown": {
+      "2022-08-13": 0,
       "2022-07-29": 35,
       "2022-03-11": 33
     }
