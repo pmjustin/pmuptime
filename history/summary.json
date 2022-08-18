@@ -170,18 +170,17 @@
     "icon": "https://favicons.githubusercontent.com/highermindhealing.net",
     "slug": "higher-mind-healing",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 361,
     "timeDay": 419,
     "timeWeek": 312,
     "timeMonth": 338,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2022-08-17": 6,
       "2022-06-04": 23,
       "2022-05-09": 21
     }
