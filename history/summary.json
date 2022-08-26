@@ -109,11 +109,11 @@
     "icon": "https://favicons.githubusercontent.com/fastlaneswimming-colorado.com",
     "slug": "fast-lane-swimming",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.69%",
     "uptimeMonth": "98.01%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 343,
     "timeDay": 430,
     "timeWeek": 376,
@@ -156,9 +156,9 @@
     "url": "https://glamorousornot.com/",
     "icon": "https://favicons.githubusercontent.com/glamorousornot.com",
     "slug": "glamorous-or-not",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 282,
     "timeMonth": 591,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "Higher Mind Healing",
