@@ -156,19 +156,19 @@
     "url": "https://glamorousornot.com/",
     "icon": "https://favicons.githubusercontent.com/glamorousornot.com",
     "slug": "glamorous-or-not",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 169,
-    "timeWeek": 282,
-    "timeMonth": 591,
-    "timeYear": 351,
+    "time": 352,
+    "timeDay": 316,
+    "timeWeek": 304,
+    "timeMonth": 588,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2022-08-26": 0
+      "2022-08-26": 6
     }
   },
   {
