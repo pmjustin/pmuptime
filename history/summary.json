@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 140,
-    "timeWeek": 156,
+    "time": 284,
+    "timeDay": 79,
+    "timeWeek": 158,
     "timeMonth": 172,
-    "timeYear": 285,
+    "timeYear": 284,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 342,
-    "timeDay": 556,
-    "timeWeek": 416,
-    "timeMonth": 373,
-    "timeYear": 342,
+    "time": 341,
+    "timeDay": 53,
+    "timeWeek": 415,
+    "timeMonth": 343,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2022-08-21": 16,
       "2022-07-29": 37
@@ -50,7 +50,7 @@
     "uptimeMonth": "98.08%",
     "uptimeYear": "99.70%",
     "time": 562,
-    "timeDay": 348,
+    "timeDay": 485,
     "timeWeek": 439,
     "timeMonth": 436,
     "timeYear": 562,
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 193,
-    "timeDay": 147,
+    "time": 192,
+    "timeDay": 78,
     "timeWeek": 160,
     "timeMonth": 124,
-    "timeYear": 193,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2022-03-11": 34
     }
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 381,
-    "timeDay": 521,
-    "timeWeek": 519,
-    "timeMonth": 374,
-    "timeYear": 381,
+    "time": 379,
+    "timeDay": 55,
+    "timeWeek": 428,
+    "timeMonth": 341,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2022-07-29": 37
     }
@@ -115,7 +115,7 @@
     "uptimeMonth": "98.09%",
     "uptimeYear": "99.67%",
     "time": 343,
-    "timeDay": 305,
+    "timeDay": 409,
     "timeWeek": 355,
     "timeMonth": 348,
     "timeYear": 343,
@@ -141,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 367,
-    "timeDay": 573,
+    "time": 365,
+    "timeDay": 51,
     "timeWeek": 389,
-    "timeMonth": 603,
-    "timeYear": 367,
+    "timeMonth": 571,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2022-07-29": 35,
       "2022-03-11": 33
@@ -158,18 +158,16 @@
     "slug": "glamorous-or-not",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 461,
+    "time": 355,
+    "timeDay": 254,
     "timeWeek": 426,
-    "timeMonth": 614,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2022-08-29": 9
-    }
+    "timeMonth": 585,
+    "timeYear": 355,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Higher Mind Healing",
@@ -182,11 +180,11 @@
     "uptimeWeek": "91.73%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "99.73%",
-    "time": 375,
-    "timeDay": 301,
-    "timeWeek": 350,
-    "timeMonth": 433,
-    "timeYear": 375,
+    "time": 378,
+    "timeDay": 1116,
+    "timeWeek": 385,
+    "timeMonth": 449,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2022-08-24": 828,
       "2022-08-23": 5,
@@ -205,11 +203,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 308,
-    "timeDay": 488,
+    "time": 306,
+    "timeDay": 50,
     "timeWeek": 365,
-    "timeMonth": 314,
-    "timeYear": 308,
+    "timeMonth": 283,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2022-03-11": 32
     }
