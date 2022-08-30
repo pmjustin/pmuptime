@@ -197,9 +197,9 @@
     "url": "https://ulondafaye.com/",
     "icon": "https://favicons.githubusercontent.com/ulondafaye.com",
     "slug": "ulonda-faye",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -209,6 +209,7 @@
     "timeMonth": 283,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2022-08-30": 0,
       "2022-03-11": 32
     }
   }
