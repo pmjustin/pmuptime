@@ -22,10 +22,10 @@
     "url": "https://estateplanningleadpros.com/",
     "icon": "https://favicons.githubusercontent.com/estateplanningleadpros.com",
     "slug": "estate-planning-lead-pros",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 338,
@@ -34,6 +34,7 @@
     "timeMonth": 322,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2022-09-05": 1,
       "2022-08-21": 16,
       "2022-07-29": 37
     }
