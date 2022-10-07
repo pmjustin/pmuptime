@@ -29,6 +29,8 @@ sites:
     #url: https://mindyarbuckle.com/
   - name: Ulonda Faye # Added 1/12/2022
     url: https://ulondafaye.com/
+  - name: Healing Vulvodynia # Added 10/7/2022
+    url: https://healingvulvodynia.com/
 
 status-website:
     theme: night # status-website theme
