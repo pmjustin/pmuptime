@@ -29,8 +29,8 @@ sites:
     #url: https://mindyarbuckle.com/
   - name: Ulonda Faye # Added 1/12/2022
     url: https://ulondafaye.com/
-  - name: Healing Vulvodynia # Added 10/7/2022
-    url: https://healingvulvodynia.com/
+  - #name: Healing Vulvodynia # Added 10/7/2022 (Paused Payments)
+    #url: https://healingvulvodynia.com/
   - name: RPB Law # Added 10/31/2022
     url: https://lawbob.com/
 
