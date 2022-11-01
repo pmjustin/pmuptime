@@ -31,6 +31,8 @@ sites:
     url: https://ulondafaye.com/
   - name: Healing Vulvodynia # Added 10/7/2022
     url: https://healingvulvodynia.com/
+  - name: RPB Law # Added 10/31/2022
+    url: https://lawbob.com/
 
 status-website:
     theme: night # status-website theme
