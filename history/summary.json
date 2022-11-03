@@ -122,10 +122,10 @@
     "url": "https://fastlaneswimming-colorado.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fastlaneswimming-colorado.com.ico",
     "slug": "fast-lane-swimming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.68%",
     "time": 353,
@@ -134,6 +134,7 @@
     "timeMonth": 396,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2022-11-03": 1,
       "2022-10-31": 60,
       "2022-10-30": 3,
       "2022-10-25": 90,
@@ -262,18 +263,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lawbob.com.ico",
     "slug": "rpb-law",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 372,
     "timeDay": 398,
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
-    "dailyMinutesDown": {
-      "2022-11-03": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
