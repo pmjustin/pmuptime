@@ -124,9 +124,9 @@
     "slug": "fast-lane-swimming",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.68%",
     "time": 353,
     "timeDay": 334,
@@ -134,7 +134,6 @@
     "timeMonth": 396,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-11-03": 8,
       "2022-10-31": 60,
       "2022-10-30": 3,
       "2022-10-25": 90,
@@ -262,17 +261,19 @@
     "url": "https://lawbob.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lawbob.com.ico",
     "slug": "rpb-law",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 361,
     "timeDay": 378,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   }
 ]
