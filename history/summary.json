@@ -4,18 +4,20 @@
     "url": "https://personablemedia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/personablemedia.com.ico",
     "slug": "personable-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 146,
-    "timeWeek": 129,
+    "timeDay": 134,
+    "timeWeek": 128,
     "timeMonth": 118,
-    "timeYear": 150,
-    "dailyMinutesDown": {}
+    "timeYear": 149,
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "Estate Planning Lead Pros",
@@ -83,18 +85,19 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 135,
+    "timeDay": 124,
     "timeWeek": 114,
     "timeMonth": 103,
     "timeYear": 111,
     "dailyMinutesDown": {
+      "2023-03-21": 0,
       "2022-12-10": 15
     }
   },
