@@ -33,6 +33,8 @@ sites:
     #url: https://healingvulvodynia.com/
   - name: RPB Law # Added 10/31/2022
     url: https://lawbob.com/
+  - name: Hardy Law # Added 04/25/2023
+    url: https://hardylaws.com
 
 status-website:
     theme: night # status-website theme
