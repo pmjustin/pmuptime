@@ -35,6 +35,8 @@ sites:
     url: https://lawbob.com/
   - name: Hardy Law # Added 04/25/2023
     url: https://hardylaws.com
+  - name: Peter R Barnett Law # 05/24/2023
+    url: https://peterbarnettlaw.com/
 
 status-website:
     theme: night # status-website theme
