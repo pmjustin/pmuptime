@@ -13,8 +13,8 @@ sites:
     url: https://michaelbaileylawllc.com/
   #- name: Saeed & Little Law # Added 1/12/2022 - Cancelled Services
     #url: https://willandtrustindy.com/
-  - name: Arvada Tri # Added 1/12/2022
-    url: https://arvadatri.com/
+  #- name: Arvada Tri # Added 1/12/2022 - Cancelled Services
+    #url: https://arvadatri.com/
   - name: Fast Lane Swimming # Added 1/12/2022
     url: https://fastlaneswimming-colorado.com/
   - name: Fish of Westminister # Added 1/12/2022
@@ -31,7 +31,7 @@ sites:
     url: https://ulondafaye.com/
   - name: Healing Vulvodynia # Added 10/7/2022 (Paused Payments)
     url: https://healingvulvodynia.com/
-  #- name: RPB Law # Added 10/31/2022
+  #- name: RPB Law # Added 10/31/2022 - Cancelled Services
     #url: https://lawbob.com/
   - name: Hardy Law # Added 04/25/2023
     url: https://hardylaws.com
