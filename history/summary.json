@@ -4,10 +4,10 @@
     "url": "https://personablemedia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/personablemedia.com.ico",
     "slug": "personable-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
@@ -15,7 +15,9 @@
     "timeWeek": 104,
     "timeMonth": 111,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 1
+    }
   },
   {
     "name": "Estate Planning Lead Pros",
@@ -79,9 +81,9 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,6 +93,7 @@
     "timeMonth": 211,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2022-12-10": 15
     }
   },
@@ -247,11 +250,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
     "status": "up",
-    "uptime": "87.55%",
+    "uptime": "87.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.55%",
+    "uptimeYear": "87.64%",
     "time": 418,
     "timeDay": 199,
     "timeWeek": 499,
