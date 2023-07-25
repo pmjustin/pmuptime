@@ -37,6 +37,8 @@ sites:
     url: https://hardylaws.com
   - name: Peter R Barnett Law # 05/24/2023
     url: https://peterbarnettlaw.com/
+  - name: Paul Pfeiffer Law # 07/25/2023
+    url: https://peplawllc.com/
 
 status-website:
     theme: night # status-website theme
