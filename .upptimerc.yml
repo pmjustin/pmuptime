@@ -31,8 +31,8 @@ sites:
     url: https://ulondafaye.com/
   - name: Healing Vulvodynia # Added 10/7/2022 (Paused Payments)
     url: https://healingvulvodynia.com/
-  - name: RPB Law # Added 10/31/2022
-    url: https://lawbob.com/
+  #- name: RPB Law # Added 10/31/2022
+    #url: https://lawbob.com/
   - name: Hardy Law # Added 04/25/2023
     url: https://hardylaws.com
   - name: Peter R Barnett Law # 05/24/2023
