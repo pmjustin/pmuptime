@@ -215,11 +215,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
     "status": "up",
-    "uptime": "90.21%",
+    "uptime": "90.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.21%",
+    "uptimeYear": "90.24%",
     "time": 423,
     "timeDay": 483,
     "timeWeek": 432,
@@ -294,17 +294,19 @@
     "url": "https://jmslawltd.com",
     "icon": "https://icons.duckduckgo.com/ip3/jmslawltd.com.ico",
     "slug": "jms-law",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 364,
     "timeDay": 364,
     "timeWeek": 364,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-03": 0
+    }
   }
 ]
