@@ -294,19 +294,19 @@
     "url": "https://jmslawltd.com",
     "icon": "https://icons.duckduckgo.com/ip3/jmslawltd.com.ico",
     "slug": "jms-law",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "status": "up",
+    "uptime": "95.04%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "95.04%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "95.04%",
+    "time": 437,
+    "timeDay": 437,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-08-03": 0
+      "2023-08-03": 10
     }
   }
 ]
