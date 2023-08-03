@@ -39,6 +39,8 @@ sites:
     url: https://peterbarnettlaw.com/
   - name: Paul Pfeiffer Law # 07/25/2023
     url: https://peplawllc.com/
+  - name: JMS Law # 08/03/2023
+    url: https://jmslawltd.com
 
 status-website:
     theme: night # status-website theme
