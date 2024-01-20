@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/estateplanningleadpros.com.ico",
     "slug": "estate-planning-lead-pros",
     "status": "up",
-    "uptime": "92.10%",
+    "uptime": "92.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rostmotor.com.ico",
     "slug": "rost-motors",
     "status": "up",
-    "uptime": "92.23%",
+    "uptime": "92.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -179,9 +179,9 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -190,7 +190,9 @@
     "timeWeek": 101,
     "timeMonth": 99,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-20": 0
+    }
   },
   {
     "name": "Fast Lane Swimming",
@@ -198,7 +200,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastlaneswimming-colorado.com.ico",
     "slug": "fast-lane-swimming",
     "status": "up",
-    "uptime": "92.22%",
+    "uptime": "92.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -358,7 +360,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
