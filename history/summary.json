@@ -179,19 +179,19 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 176,
-    "timeWeek": 101,
-    "timeMonth": 99,
+    "time": 122,
+    "timeDay": 190,
+    "timeWeek": 113,
+    "timeMonth": 102,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-01-20": 0
+      "2024-01-20": 5
     }
   },
   {
