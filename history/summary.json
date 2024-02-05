@@ -6,9 +6,9 @@
     "slug": "personable-media",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 61,
@@ -16,7 +16,7 @@
     "timeMonth": 178,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-02-05": 7,
+      "2024-02-05": 1,
       "2023-12-05": 17
     }
   },
@@ -180,11 +180,11 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
     "timeDay": 77,
@@ -192,7 +192,7 @@
     "timeMonth": 102,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-02-05": 6
+      "2024-02-05": 0
     }
   },
   {
@@ -340,8 +340,8 @@
     "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.11%",
-    "uptimeMonth": "86.68%",
+    "uptimeWeek": "42.05%",
+    "uptimeMonth": "86.66%",
     "uptimeYear": "98.86%",
     "time": 257,
     "timeDay": 0,
@@ -349,7 +349,7 @@
     "timeMonth": 141,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-02-05": 1295,
+      "2024-02-05": 1302,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
