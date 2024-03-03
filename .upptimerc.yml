@@ -33,12 +33,12 @@ sites:
     url: https://healingvulvodynia.com/
   #- name: RPB Law # Added 10/31/2022 - Cancelled Services
     #url: https://lawbob.com/
-  - name: Hardy Law # Added 04/25/2023
-    url: https://hardylaws.com
+  #- name: Hardy Law # Added 04/25/2023 - Cancelled Services
+    #url: https://hardylaws.com
   - name: Peter R Barnett Law # 05/24/2023
     url: https://peterbarnettlaw.com/
-  - name: Paul Pfeiffer Law # 07/25/2023
-    url: https://peplawllc.com/
+  #- name: Paul Pfeiffer Law # 07/25/2023 - Cancelled Services
+    #url: https://peplawllc.com/
   - name: JMS Law # 08/03/2023
     url: https://jmslawltd.com
 
