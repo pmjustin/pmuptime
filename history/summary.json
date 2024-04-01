@@ -240,18 +240,19 @@
     "url": "https://highermindhealing.net/",
     "icon": "https://icons.duckduckgo.com/ip3/highermindhealing.net.ico",
     "slug": "higher-mind-healing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 526,
+    "time": 527,
     "timeDay": 287,
     "timeWeek": 336,
     "timeMonth": 330,
     "timeYear": 615,
     "dailyMinutesDown": {
+      "2024-04-01": 2,
       "2024-02-22": 42,
       "2024-02-21": 2
     }
@@ -261,10 +262,10 @@
     "url": "https://healingvulvodynia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 497,
@@ -273,6 +274,7 @@
     "timeMonth": 431,
     "timeYear": 502,
     "dailyMinutesDown": {
+      "2024-04-01": 1,
       "2024-02-11": 16,
       "2023-11-08": 18
     }
@@ -282,10 +284,10 @@
     "url": "https://peterbarnettlaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/peterbarnettlaw.com.ico",
     "slug": "peter-r-barnett-law",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
@@ -294,6 +296,7 @@
     "timeMonth": 386,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2024-04-01": 1,
       "2023-11-08": 18
     }
   },
@@ -302,9 +305,9 @@
     "url": "https://jmslawltd.com",
     "icon": "https://icons.duckduckgo.com/ip3/jmslawltd.com.ico",
     "slug": "jms-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
@@ -314,6 +317,7 @@
     "timeMonth": 370,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2024-04-01": 0,
       "2024-02-22": 42,
       "2024-02-21": 2,
       "2023-11-05": 86,
