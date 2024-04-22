@@ -41,6 +41,8 @@ sites:
     #url: https://peplawllc.com/
   - name: JMS Law # 08/03/2023
     url: https://jmslawltd.com
+  - name: Zulu Contractors # 04/20/2024
+    url: https://zulucontractors.com
 
 status-website:
     theme: night # status-website theme
