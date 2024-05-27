@@ -242,9 +242,9 @@
     "slug": "higher-mind-healing",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 602,
     "timeDay": 4856,
@@ -252,7 +252,6 @@
     "timeMonth": 1572,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-05-26": 6,
       "2024-05-25": 16,
       "2024-02-22": 42,
       "2024-02-21": 2
@@ -265,9 +264,9 @@
     "slug": "healing-vulvodynia",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 539,
     "timeDay": 430,
@@ -275,7 +274,6 @@
     "timeMonth": 780,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-05-26": 6,
       "2024-02-11": 16,
       "2023-11-08": 18
     }
