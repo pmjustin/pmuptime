@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/estateplanningleadpros.com.ico",
     "slug": "estate-planning-lead-pros",
     "status": "up",
-    "uptime": "93.49%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rostmotor.com.ico",
     "slug": "rost-motors",
     "status": "up",
-    "uptime": "93.60%",
+    "uptime": "93.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -250,7 +250,7 @@
     "time": 625,
     "timeDay": 183,
     "timeWeek": 352,
-    "timeMonth": 1189,
+    "timeMonth": 730,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2024-05-25": 16,
@@ -264,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -272,7 +272,7 @@
     "time": 540,
     "timeDay": 403,
     "timeWeek": 459,
-    "timeMonth": 541,
+    "timeMonth": 544,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2024-02-11": 16,
@@ -329,17 +329,19 @@
     "url": "https://zulucontractors.com",
     "icon": "https://icons.duckduckgo.com/ip3/zulucontractors.com.ico",
     "slug": "zulu-contractors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 1586,
-    "timeWeek": 1275,
-    "timeMonth": 703,
-    "timeYear": 677,
-    "dailyMinutesDown": {}
+    "time": 805,
+    "timeDay": 3765,
+    "timeWeek": 2178,
+    "timeMonth": 970,
+    "timeYear": 805,
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   }
 ]
