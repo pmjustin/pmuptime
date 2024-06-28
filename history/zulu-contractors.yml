@@ -1,7 +1,7 @@
 url: https://zulucontractors.com
-status: up
-code: 200
-responseTime: 1081
-lastUpdated: 2024-06-27T23:19:42.423Z
+status: down
+code: 503
+responseTime: 206
+lastUpdated: 2024-06-28T15:00:32.085Z
 startTime: 2024-04-22T16:16:46.221Z
 generator: Upptime <https://github.com/upptime/upptime>
