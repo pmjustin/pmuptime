@@ -329,19 +329,19 @@
     "url": "https://zulucontractors.com",
     "icon": "https://icons.duckduckgo.com/ip3/zulucontractors.com.ico",
     "slug": "zulu-contractors",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 816,
-    "timeDay": 434,
-    "timeWeek": 1884,
-    "timeMonth": 988,
-    "timeYear": 816,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 812,
+    "timeDay": 435,
+    "timeWeek": 1788,
+    "timeMonth": 975,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2024-06-28": 0
+      "2024-06-28": 16
     }
   }
 ]
