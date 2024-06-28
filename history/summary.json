@@ -271,7 +271,7 @@
     "uptimeYear": "99.99%",
     "time": 548,
     "timeDay": 1801,
-    "timeWeek": 733,
+    "timeWeek": 805,
     "timeMonth": 639,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -292,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 1619,
-    "timeWeek": 621,
+    "timeWeek": 648,
     "timeMonth": 752,
     "timeYear": 470,
     "dailyMinutesDown": {
@@ -329,17 +329,19 @@
     "url": "https://zulucontractors.com",
     "icon": "https://icons.duckduckgo.com/ip3/zulucontractors.com.ico",
     "slug": "zulu-contractors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 510,
-    "timeWeek": 2013,
-    "timeMonth": 1008,
-    "timeYear": 824,
-    "dailyMinutesDown": {}
+    "time": 816,
+    "timeDay": 434,
+    "timeWeek": 1884,
+    "timeMonth": 988,
+    "timeYear": 816,
+    "dailyMinutesDown": {
+      "2024-06-28": 0
+    }
   }
 ]
