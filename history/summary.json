@@ -263,18 +263,19 @@
     "url": "https://healingvulvodynia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 540,
-    "timeDay": 221,
-    "timeWeek": 339,
-    "timeMonth": 502,
-    "timeYear": 556,
+    "time": 551,
+    "timeDay": 1534,
+    "timeWeek": 767,
+    "timeMonth": 623,
+    "timeYear": 567,
     "dailyMinutesDown": {
+      "2024-07-12": 1,
       "2024-02-11": 16,
       "2023-11-08": 18
     }
@@ -284,18 +285,19 @@
     "url": "https://peterbarnettlaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/peterbarnettlaw.com.ico",
     "slug": "peter-r-barnett-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 478,
-    "timeDay": 157,
-    "timeWeek": 318,
-    "timeMonth": 557,
-    "timeYear": 483,
+    "timeDay": 214,
+    "timeWeek": 313,
+    "timeMonth": 551,
+    "timeYear": 482,
     "dailyMinutesDown": {
+      "2024-07-12": 1,
       "2024-07-02": 17,
       "2023-11-08": 18
     }
@@ -351,18 +353,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1783,
     "timeDay": 4306,
     "timeWeek": 1783,
     "timeMonth": 1783,
     "timeYear": 1783,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 6
     }
   }
 ]
