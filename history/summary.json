@@ -264,10 +264,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/healingvulvodynia.com.ico",
     "slug": "healing-vulvodynia",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "98.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 540,
     "timeDay": 221,
@@ -275,7 +275,6 @@
     "timeMonth": 502,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-07-12": 6,
       "2024-02-11": 16,
       "2023-11-08": 18
     }
@@ -351,19 +350,19 @@
     "url": "https://caricomattorneys.com",
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1934,
-    "timeDay": 5651,
-    "timeWeek": 1934,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1783,
+    "timeDay": 4306,
+    "timeWeek": 1783,
+    "timeMonth": 1783,
+    "timeYear": 1783,
     "dailyMinutesDown": {
-      "2024-07-12": 5
+      "2024-07-12": 0
     }
   }
 ]
