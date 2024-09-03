@@ -45,6 +45,8 @@ sites:
     url: https://zulucontractors.com
   - name: CARICOM Law # 07/05/2024
     url: https://caricomattorneys.com
+  - name: Kristi Hancock Law # 09/03/2024
+    url: https://khancocklaw.com
 
 status-website:
     theme: night # status-website theme
