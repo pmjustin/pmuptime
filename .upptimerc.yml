@@ -47,6 +47,8 @@ sites:
     url: https://caricomattorneys.com
   - name: Kristi Hancock Law # 09/03/2024
     url: https://khancocklaw.com
+  - name: Robert Chesser Jr Law # 09/21/2024
+    url: https://chesserlegal.com
 
 status-website:
     theme: night # status-website theme
