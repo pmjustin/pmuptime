@@ -51,6 +51,8 @@ sites:
     url: https://chesserlegal.com
   - name: Ranjha Law Group # 09/27/2024
     url: https://ranjhalaw.com/
+  - name: Lavelle Law Group # 10/04/2024
+    url: https://lavellelawgroup.com/
 
 status-website:
     theme: night # status-website theme
