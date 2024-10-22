@@ -30,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.50%",
+    "uptimeYear": "85.51%",
     "time": 168,
     "timeDay": 144,
     "timeWeek": 143,
@@ -87,8 +87,7 @@
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
-      "2023-10-24": 1440,
-      "2023-10-23": 1440
+      "2023-10-24": 1440
     }
   },
   {
@@ -101,7 +100,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.50%",
+    "uptimeYear": "85.51%",
     "time": 114,
     "timeDay": 143,
     "timeWeek": 127,
@@ -158,8 +157,7 @@
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
-      "2023-10-24": 1440,
-      "2023-10-23": 1440
+      "2023-10-24": 1440
     }
   },
   {
@@ -191,17 +189,17 @@
     "slug": "fish-of-westminister",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "95.33%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "95.34%",
     "time": 276,
     "timeDay": 259,
     "timeWeek": 282,
     "timeMonth": 297,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-10-21": 127,
+      "2024-10-21": 121,
       "2024-10-20": 16,
       "2024-10-19": 36,
       "2024-10-18": 16,
@@ -221,8 +219,7 @@
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
-      "2023-10-24": 1440,
-      "2023-10-23": 1440
+      "2023-10-24": 1440
     }
   },
   {
@@ -275,18 +272,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/peterbarnettlaw.com.ico",
     "slug": "peter-r-barnett-law",
     "status": "down",
-    "uptime": "99.41%",
+    "uptime": "99.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.54%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "99.16%",
+    "uptimeWeek": "56.05%",
+    "uptimeMonth": "89.89%",
+    "uptimeYear": "99.15%",
     "time": 465,
     "timeDay": 0,
     "timeWeek": 339,
     "timeMonth": 391,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-10-21": 1432,
+      "2024-10-22": 42,
+      "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 69,
