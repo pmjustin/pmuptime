@@ -30,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.77%",
+    "uptimeYear": "85.78%",
     "time": 168,
     "timeDay": 134,
     "timeWeek": 137,
@@ -86,8 +86,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -96,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rostmotor.com.ico",
     "slug": "rost-motors",
     "status": "up",
-    "uptime": "94.35%",
+    "uptime": "94.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.77%",
+    "uptimeYear": "85.78%",
     "time": 114,
     "timeDay": 182,
     "timeWeek": 133,
@@ -156,8 +155,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -189,17 +187,17 @@
     "slug": "fish-of-westminister",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "95.59%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "95.61%",
     "time": 272,
-    "timeDay": 280,
+    "timeDay": 253,
     "timeWeek": 277,
     "timeMonth": 294,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-10-22": 42,
+      "2024-10-22": 34,
       "2024-10-21": 121,
       "2024-10-20": 16,
       "2024-10-19": 36,
@@ -219,8 +217,7 @@
       "2023-10-28": 1440,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
-      "2023-10-25": 1440,
-      "2023-10-24": 1440
+      "2023-10-25": 1440
     }
   },
   {
@@ -273,18 +270,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/peterbarnettlaw.com.ico",
     "slug": "peter-r-barnett-law",
     "status": "down",
-    "uptime": "99.22%",
+    "uptime": "99.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.42%",
-    "uptimeMonth": "86.75%",
-    "uptimeYear": "98.89%",
+    "uptimeWeek": "41.77%",
+    "uptimeMonth": "86.60%",
+    "uptimeYear": "98.88%",
     "time": 466,
     "timeDay": 0,
     "timeWeek": 304,
     "timeMonth": 387,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-10-22": 1415,
+      "2024-10-23": 41,
+      "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
