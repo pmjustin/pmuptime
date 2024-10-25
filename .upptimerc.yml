@@ -53,6 +53,10 @@ sites:
     url: https://ranjhalaw.com/
   - name: Lavelle Law Group # 10/04/2024
     url: https://lavellelawgroup.com/
+  - name: Angel Latterell Law # 10/25/2024
+    url: https://latterelllaw.com/
+  - name: Motion Mastery # 10/24/2024
+    url: https://motionmastery.com/
 
 status-website:
     theme: night # status-website theme
