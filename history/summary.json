@@ -30,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.60%",
+    "uptimeYear": "89.61%",
     "time": 162,
     "timeDay": 114,
     "timeWeek": 141,
@@ -72,8 +72,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   },
   {
@@ -86,7 +85,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.60%",
+    "uptimeYear": "89.61%",
     "time": 115,
     "timeDay": 104,
     "timeWeek": 129,
@@ -128,8 +127,7 @@
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
-      "2023-11-08": 1440,
-      "2023-11-07": 1440
+      "2023-11-08": 1440
     }
   },
   {
@@ -165,7 +163,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.99%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 275,
     "timeDay": 186,
     "timeWeek": 283,
@@ -184,8 +182,7 @@
       "2024-10-19": 36,
       "2024-10-18": 16,
       "2024-06-04": 15,
-      "2024-03-07": 104,
-      "2023-11-07": 1180
+      "2024-03-07": 104
     }
   },
   {
@@ -317,19 +314,20 @@
     "url": "https://caricomattorneys.com",
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.92%",
-    "time": 538,
-    "timeDay": 210,
-    "timeWeek": 304,
-    "timeMonth": 440,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.88%",
+    "time": 536,
+    "timeDay": 231,
+    "timeWeek": 300,
+    "timeMonth": 435,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-11-05": 0,
+      "2024-11-06": 39,
+      "2024-11-05": 28,
       "2024-10-26": 123,
       "2024-10-25": 4,
       "2024-07-12": 18
