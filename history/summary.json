@@ -297,19 +297,19 @@
     "url": "https://ranjhalaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ranjhalaw.com.ico",
     "slug": "ranjha-law-group",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 160,
-    "timeWeek": 134,
-    "timeMonth": 132,
-    "timeYear": 141,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 142,
+    "timeDay": 220,
+    "timeWeek": 152,
+    "timeMonth": 136,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-01-03": 1
+      "2025-01-03": 12
     }
   },
   {
