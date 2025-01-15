@@ -59,6 +59,8 @@ sites:
     url: https://motionmastery.com/
   - name: Relationship Remedy Now # 12/06/2024
     url: https://relationshipremedynow.com/
+  - name: ODay Legacy Law # 1/14/2025
+    url: https://odaylegacylaw.com/
 
 status-website:
     theme: night # status-website theme
