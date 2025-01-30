@@ -1,7 +1,7 @@
 url: https://rostmotor.com/
-status: up
-code: 200
-responseTime: 130
-lastUpdated: 2025-01-30T03:17:31.076Z
+status: down
+code: 403
+responseTime: 128
+lastUpdated: 2025-01-30T11:45:11.222Z
 startTime: 2022-01-12T21:16:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
