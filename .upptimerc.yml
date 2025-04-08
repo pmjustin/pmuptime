@@ -61,6 +61,8 @@ sites:
     url: https://relationshipremedynow.com/
   - name: ODay Legacy Law # 1/14/2025
     url: https://odaylegacylaw.com/
+  - name: Williams Legal Services # 4/08/2025
+    url: https://williamslegal.services/
 
 status-website:
     theme: night # status-website theme
