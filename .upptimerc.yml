@@ -63,8 +63,8 @@ sites:
     url: https://odaylegacylaw.com/
   - name: Williams Legal Services # 4/08/2025
     url: https://williamslegal.services/
-  - name: Pharma Startup Lawyer # 4/11/2025
-    url: https://pharmastartuplawyer.com/
+  - name: Pharma Contracts Lawyer # 4/11/2025
+    url: https://pharmacontractslawyer.com/
 
 status-website:
     theme: night # status-website theme
