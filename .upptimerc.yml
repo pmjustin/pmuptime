@@ -65,6 +65,8 @@ sites:
     url: https://williamslegal.services/
   - name: Pharma Contracts Lawyer # 4/11/2025
     url: https://pharmacontractslawyer.com/
+  - name: Apryl Dance # 7/29/2025
+    url: https://apryldance.com/
 
 status-website:
     theme: night # status-website theme
