@@ -11,9 +11,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.81%",
     "time": 158,
-    "timeDay": 369,
-    "timeWeek": 224,
-    "timeMonth": 213,
+    "timeDay": 190,
+    "timeWeek": 212,
+    "timeMonth": 211,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-02-23": 60,
@@ -41,8 +41,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -57,9 +56,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.78%",
     "time": 149,
-    "timeDay": 118,
-    "timeWeek": 198,
-    "timeMonth": 173,
+    "timeDay": 124,
+    "timeWeek": 177,
+    "timeMonth": 171,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -92,8 +91,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -108,9 +106,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.78%",
     "time": 139,
-    "timeDay": 162,
-    "timeWeek": 166,
-    "timeMonth": 171,
+    "timeDay": 111,
+    "timeWeek": 154,
+    "timeMonth": 168,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -143,8 +141,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -159,9 +156,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.81%",
     "time": 139,
-    "timeDay": 382,
-    "timeWeek": 177,
-    "timeMonth": 184,
+    "timeDay": 61,
+    "timeWeek": 161,
+    "timeMonth": 178,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-02-23": 59,
@@ -190,8 +187,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -206,9 +202,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.78%",
     "time": 218,
-    "timeDay": 228,
-    "timeWeek": 183,
-    "timeMonth": 228,
+    "timeDay": 255,
+    "timeWeek": 173,
+    "timeMonth": 231,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -241,8 +237,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -253,13 +248,13 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.78%",
     "time": 140,
-    "timeDay": 152,
-    "timeWeek": 160,
-    "timeMonth": 170,
+    "timeDay": 88,
+    "timeWeek": 142,
+    "timeMonth": 166,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2026-03-03": 19,
@@ -293,8 +288,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -309,9 +303,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.78%",
     "time": 142,
-    "timeDay": 148,
-    "timeWeek": 159,
-    "timeMonth": 157,
+    "timeDay": 187,
+    "timeWeek": 157,
+    "timeMonth": 155,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -344,8 +338,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -360,9 +353,9 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.66%",
     "time": 159,
-    "timeDay": 235,
-    "timeWeek": 300,
-    "timeMonth": 190,
+    "timeDay": 172,
+    "timeWeek": 290,
+    "timeMonth": 188,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -398,8 +391,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -414,9 +406,9 @@
     "uptimeMonth": "95.13%",
     "uptimeYear": "99.36%",
     "time": 153,
-    "timeDay": 403,
-    "timeWeek": 242,
-    "timeMonth": 204,
+    "timeDay": 98,
+    "timeWeek": 209,
+    "timeMonth": 202,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2026-02-24": 324,
@@ -451,8 +443,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -467,9 +458,9 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.69%",
     "time": 150,
-    "timeDay": 235,
-    "timeWeek": 176,
-    "timeMonth": 162,
+    "timeDay": 177,
+    "timeWeek": 164,
+    "timeMonth": 161,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -504,8 +495,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -514,15 +504,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
     "status": "up",
-    "uptime": "93.80%",
+    "uptime": "93.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.75%",
     "time": 204,
-    "timeDay": 529,
-    "timeWeek": 431,
-    "timeMonth": 374,
+    "timeDay": 184,
+    "timeWeek": 388,
+    "timeMonth": 369,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-11-16": 44,
@@ -580,8 +570,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -595,11 +584,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 236,
-    "timeDay": 118,
-    "timeWeek": 283,
-    "timeMonth": 397,
-    "timeYear": 280,
+    "time": 237,
+    "timeDay": 789,
+    "timeWeek": 355,
+    "timeMonth": 412,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2025-11-16": 43,
       "2025-07-23": 18,
@@ -616,8 +605,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -632,9 +620,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.74%",
     "time": 269,
-    "timeDay": 157,
-    "timeWeek": 188,
-    "timeMonth": 197,
+    "timeDay": 171,
+    "timeWeek": 181,
+    "timeMonth": 194,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -673,8 +661,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -683,15 +670,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ranjhalaw.com.ico",
     "slug": "ranjha-law-group",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.78%",
     "time": 148,
-    "timeDay": 240,
-    "timeWeek": 192,
-    "timeMonth": 176,
+    "timeDay": 169,
+    "timeWeek": 184,
+    "timeMonth": 174,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -724,8 +711,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -739,11 +725,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 196,
-    "timeDay": 351,
-    "timeWeek": 425,
-    "timeMonth": 470,
-    "timeYear": 209,
+    "time": 197,
+    "timeDay": 931,
+    "timeWeek": 500,
+    "timeMonth": 496,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2025-11-16": 42,
       "2025-10-06": 19,
@@ -764,8 +750,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -779,11 +764,11 @@
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.83%",
-    "time": 1255,
-    "timeDay": 1265,
-    "timeWeek": 1451,
-    "timeMonth": 1621,
-    "timeYear": 1589,
+    "time": 1257,
+    "timeDay": 756,
+    "timeWeek": 1154,
+    "timeMonth": 1247,
+    "timeYear": 1590,
     "dailyMinutesDown": {
       "2026-02-28": 30,
       "2026-01-13": 22,
@@ -808,8 +793,7 @@
       "2025-05-24": 19,
       "2025-05-13": 101,
       "2025-05-01": 25,
-      "2025-04-14": 21,
-      "2025-03-07": 19
+      "2025-04-14": 21
     }
   },
   {
@@ -824,9 +808,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.78%",
     "time": 146,
-    "timeDay": 165,
-    "timeWeek": 154,
-    "timeMonth": 155,
+    "timeDay": 118,
+    "timeWeek": 134,
+    "timeMonth": 154,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -859,8 +843,7 @@
       "2025-04-13": 157,
       "2025-04-03": 17,
       "2025-04-01": 21,
-      "2025-03-20": 21,
-      "2025-03-07": 19
+      "2025-03-20": 21
     }
   },
   {
@@ -869,15 +852,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/williamslegal.services.ico",
     "slug": "williams-legal-services",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 201,
-    "timeDay": 121,
-    "timeWeek": 245,
-    "timeMonth": 227,
+    "timeDay": 98,
+    "timeWeek": 229,
+    "timeMonth": 219,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -922,9 +905,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.80%",
     "time": 165,
-    "timeDay": 147,
-    "timeWeek": 188,
-    "timeMonth": 204,
+    "timeDay": 191,
+    "timeWeek": 182,
+    "timeMonth": 202,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-02-25": 66,
@@ -968,8 +951,8 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.78%",
     "time": 166,
-    "timeDay": 153,
-    "timeWeek": 159,
+    "timeDay": 224,
+    "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -1005,11 +988,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.71%",
-    "time": 272,
-    "timeDay": 154,
-    "timeWeek": 166,
-    "timeMonth": 168,
-    "timeYear": 272,
+    "time": 271,
+    "timeDay": 188,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2026-02-25": 66,
       "2026-02-22": 23,
@@ -1032,16 +1015,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/brownlegacylaw.com.ico",
     "slug": "brown-legacy-law",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.65%",
-    "time": 158,
-    "timeDay": 155,
-    "timeWeek": 159,
+    "uptimeYear": "99.66%",
+    "time": 159,
+    "timeDay": 185,
+    "timeWeek": 154,
     "timeMonth": 161,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2026-02-25": 66,
       "2026-02-22": 23,
