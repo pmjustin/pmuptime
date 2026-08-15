@@ -423,7 +423,7 @@
       "2026-04-22": 1440,
       "2026-04-21": 1164,
       "2026-05-15": 308,
-      "2026-08-15": 525,
+      "2026-08-15": 557,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -713,15 +713,15 @@
     "url": "https://caricomattorneys.com",
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
-    "status": "up",
+    "status": "down",
     "uptime": "94.76%",
-    "uptimeDay": "72.89%",
+    "uptimeDay": "72.16%",
     "uptimeWeek": "80.99%",
-    "uptimeMonth": "93.78%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "89.13%",
     "time": 382,
     "timeDay": 335,
-    "timeWeek": 473,
+    "timeWeek": 484,
     "timeMonth": 458,
     "timeYear": 497,
     "dailyMinutesDown": {
@@ -786,7 +786,7 @@
       "2026-08-12": 250,
       "2026-08-13": 264,
       "2026-08-14": 231,
-      "2026-08-15": 160
+      "2026-08-15": 171
     }
   },
   {
@@ -794,15 +794,15 @@
     "url": "https://khancocklaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/khancocklaw.com.ico",
     "slug": "kristi-hancock-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "76.99%",
-    "uptimeWeek": "82.68%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "76.59%",
+    "uptimeWeek": "82.73%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.44%",
     "time": 367,
     "timeDay": 413,
-    "timeWeek": 370,
+    "timeWeek": 366,
     "timeMonth": 386,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -824,7 +824,7 @@
       "2026-08-12": 230,
       "2026-08-13": 245,
       "2026-08-14": 206,
-      "2026-08-15": 126
+      "2026-08-15": 132
     }
   },
   {
@@ -953,15 +953,15 @@
     "url": "https://latterelllaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/latterelllaw.com.ico",
     "slug": "angel-latterell-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "81.05%",
-    "uptimeWeek": "84.36%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "80.98%",
+    "uptimeWeek": "84.46%",
+    "uptimeMonth": "94.77%",
     "uptimeYear": "99.44%",
-    "time": 270,
+    "time": 271,
     "timeDay": 301,
-    "timeWeek": 334,
+    "timeWeek": 332,
     "timeMonth": 351,
     "timeYear": 319,
     "dailyMinutesDown": {
@@ -990,7 +990,7 @@
       "2026-08-12": 205,
       "2026-08-13": 225,
       "2026-08-14": 166,
-      "2026-08-15": 106
+      "2026-08-15": 107
     }
   },
   {
@@ -1169,7 +1169,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.57%",
+    "uptimeYear": "73.56%",
     "time": 168,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1221,7 +1221,7 @@
       "2026-04-23": 658,
       "2026-05-15": 308,
       "2026-05-29": 73,
-      "2026-08-15": 525,
+      "2026-08-15": 557,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1309,7 +1309,7 @@
     "status": "up",
     "uptime": "92.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "51.51%",
+    "uptimeWeek": "51.83%",
     "uptimeMonth": "11.83%",
     "uptimeYear": "91.69%",
     "time": 166,
