@@ -4,16 +4,16 @@
     "url": "https://personablemedia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/personablemedia.com.ico",
     "slug": "personable-media",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "97.28%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "97.26%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.16%",
     "time": 193,
-    "timeDay": 254,
-    "timeWeek": 234,
-    "timeMonth": 263,
+    "timeDay": 203,
+    "timeWeek": 227,
+    "timeMonth": 260,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -63,7 +63,7 @@
       "2026-08-10": 85,
       "2026-08-13": 41,
       "2026-08-14": 133,
-      "2026-08-16": 15
+      "2026-08-16": 17
     }
   },
   {
@@ -187,16 +187,16 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "97.52%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.00%",
     "time": 160,
-    "timeDay": 161,
-    "timeWeek": 271,
-    "timeMonth": 209,
+    "timeDay": 122,
+    "timeWeek": 255,
+    "timeMonth": 206,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-08-27": 17,
@@ -247,7 +247,7 @@
       "2026-08-10": 81,
       "2026-08-13": 36,
       "2026-08-14": 123,
-      "2026-08-16": 11
+      "2026-08-16": 12
     }
   },
   {
@@ -425,7 +425,7 @@
       "2026-04-22": 1440,
       "2026-04-21": 1164,
       "2026-05-15": 308,
-      "2026-08-16": 939,
+      "2026-08-16": 956,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -580,16 +580,16 @@
     "url": "https://jmslawltd.com",
     "icon": "https://icons.duckduckgo.com/ip3/jmslawltd.com.ico",
     "slug": "jms-law",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "98.79%",
     "time": 212,
-    "timeDay": 261,
-    "timeWeek": 298,
-    "timeMonth": 268,
+    "timeDay": 174,
+    "timeWeek": 280,
+    "timeMonth": 264,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -647,7 +647,7 @@
       "2026-08-10": 76,
       "2026-08-13": 31,
       "2026-08-14": 114,
-      "2026-08-16": 6
+      "2026-08-16": 7
     }
   },
   {
@@ -717,11 +717,11 @@
     "url": "https://caricomattorneys.com",
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
-    "status": "up",
-    "uptime": "94.76%",
-    "uptimeDay": "93.19%",
-    "uptimeWeek": "82.36%",
-    "uptimeMonth": "93.43%",
+    "status": "down",
+    "uptime": "94.75%",
+    "uptimeDay": "92.45%",
+    "uptimeWeek": "82.26%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "89.10%",
     "time": 392,
     "timeDay": 346,
@@ -791,7 +791,7 @@
       "2026-08-13": 264,
       "2026-08-14": 231,
       "2026-08-15": 275,
-      "2026-08-16": 39
+      "2026-08-16": 50
     }
   },
   {
@@ -799,11 +799,11 @@
     "url": "https://khancocklaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/khancocklaw.com.ico",
     "slug": "kristi-hancock-law",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "84.05%",
-    "uptimeMonth": "93.98%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "84.00%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.42%",
     "time": 333,
     "timeDay": 182,
@@ -830,7 +830,7 @@
       "2026-08-13": 245,
       "2026-08-14": 206,
       "2026-08-15": 221,
-      "2026-08-16": 34
+      "2026-08-16": 40
     }
   },
   {
@@ -959,10 +959,10 @@
     "url": "https://latterelllaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/latterelllaw.com.ico",
     "slug": "angel-latterell-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "85.86%",
+    "uptimeDay": "95.13%",
+    "uptimeWeek": "85.85%",
     "uptimeMonth": "94.56%",
     "uptimeYear": "99.43%",
     "time": 276,
@@ -997,7 +997,7 @@
       "2026-08-13": 225,
       "2026-08-14": 166,
       "2026-08-15": 170,
-      "2026-08-16": 29
+      "2026-08-16": 30
     }
   },
   {
@@ -1039,16 +1039,16 @@
     "url": "https://relationshipremedynow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/relationshipremedynow.com.ico",
     "slug": "relationship-remedy-now",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.00%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.19%",
-    "time": 178,
-    "timeDay": 216,
-    "timeWeek": 252,
-    "timeMonth": 224,
+    "time": 177,
+    "timeDay": 123,
+    "timeWeek": 233,
+    "timeMonth": 220,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -1104,7 +1104,7 @@
       "2026-08-10": 71,
       "2026-08-13": 26,
       "2026-08-14": 104,
-      "2026-08-16": 1
+      "2026-08-16": 17
     }
   },
   {
@@ -1177,7 +1177,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.22%",
+    "uptimeYear": "73.21%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1229,7 +1229,7 @@
       "2026-04-23": 658,
       "2026-05-15": 308,
       "2026-05-29": 73,
-      "2026-08-16": 940,
+      "2026-08-16": 957,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1318,8 +1318,8 @@
     "status": "up",
     "uptime": "92.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.91%",
-    "uptimeMonth": "14.18%",
+    "uptimeWeek": "70.07%",
+    "uptimeMonth": "14.22%",
     "uptimeYear": "91.70%",
     "time": 166,
     "timeDay": 236,
