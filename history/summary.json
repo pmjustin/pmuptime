@@ -13,7 +13,7 @@
     "time": 193,
     "timeDay": 114,
     "timeWeek": 225,
-    "timeMonth": 256,
+    "timeMonth": 253,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-08-27": 18,
@@ -80,7 +80,7 @@
     "time": 163,
     "timeDay": 68,
     "timeWeek": 91,
-    "timeMonth": 132,
+    "timeMonth": 131,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -138,7 +138,7 @@
     "time": 148,
     "timeDay": 43,
     "timeWeek": 103,
-    "timeMonth": 134,
+    "timeMonth": 133,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -196,7 +196,7 @@
     "time": 159,
     "timeDay": 60,
     "timeWeek": 245,
-    "timeMonth": 203,
+    "timeMonth": 199,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-08-27": 17,
@@ -264,7 +264,7 @@
     "time": 218,
     "timeDay": 137,
     "timeWeek": 164,
-    "timeMonth": 297,
+    "timeMonth": 299,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -322,7 +322,7 @@
     "time": 255,
     "timeDay": 55,
     "timeWeek": 94,
-    "timeMonth": 1241,
+    "timeMonth": 1263,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -425,7 +425,8 @@
       "2026-04-22": 1440,
       "2026-04-21": 1164,
       "2026-05-15": 308,
-      "2026-08-16": 1431,
+      "2026-08-17": 9,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -589,7 +590,7 @@
     "time": 212,
     "timeDay": 74,
     "timeWeek": 272,
-    "timeMonth": 260,
+    "timeMonth": 254,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -664,7 +665,7 @@
     "time": 157,
     "timeDay": 54,
     "timeWeek": 128,
-    "timeMonth": 167,
+    "timeMonth": 166,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -717,16 +718,16 @@
     "url": "https://caricomattorneys.com",
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
-    "status": "down",
+    "status": "up",
     "uptime": "94.75%",
-    "uptimeDay": "92.93%",
-    "uptimeWeek": "82.01%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "81.84%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "89.09%",
     "time": 406,
-    "timeDay": 646,
-    "timeWeek": 533,
-    "timeMonth": 486,
+    "timeDay": 618,
+    "timeWeek": 529,
+    "timeMonth": 485,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -791,7 +792,8 @@
       "2026-08-13": 264,
       "2026-08-14": 231,
       "2026-08-15": 275,
-      "2026-08-16": 102
+      "2026-08-16": 111,
+      "2026-08-17": 8
     }
   },
   {
@@ -799,17 +801,17 @@
     "url": "https://khancocklaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/khancocklaw.com.ico",
     "slug": "kristi-hancock-law",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "83.80%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "83.63%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "99.40%",
     "time": 338,
     "timeDay": 260,
-    "timeWeek": 312,
-    "timeMonth": 346,
-    "timeYear": 376,
+    "timeWeek": 311,
+    "timeMonth": 341,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2025-11-16": 43,
       "2026-03-15": 27,
@@ -830,7 +832,8 @@
       "2026-08-13": 245,
       "2026-08-14": 206,
       "2026-08-15": 221,
-      "2026-08-16": 83
+      "2026-08-16": 92,
+      "2026-08-17": 8
     }
   },
   {
@@ -847,7 +850,7 @@
     "time": 247,
     "timeDay": 76,
     "timeWeek": 110,
-    "timeMonth": 138,
+    "timeMonth": 135,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -908,7 +911,7 @@
     "time": 154,
     "timeDay": 47,
     "timeWeek": 107,
-    "timeMonth": 125,
+    "timeMonth": 124,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -959,16 +962,16 @@
     "url": "https://latterelllaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/latterelllaw.com.ico",
     "slug": "angel-latterell-law",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "95.61%",
-    "uptimeWeek": "85.70%",
-    "uptimeMonth": "94.48%",
+    "uptimeDay": "94.45%",
+    "uptimeWeek": "85.53%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "99.42%",
     "time": 279,
-    "timeDay": 301,
-    "timeWeek": 317,
-    "timeMonth": 339,
+    "timeDay": 294,
+    "timeWeek": 315,
+    "timeMonth": 338,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -997,7 +1000,8 @@
       "2026-08-13": 225,
       "2026-08-14": 166,
       "2026-08-15": 170,
-      "2026-08-16": 63
+      "2026-08-16": 72,
+      "2026-08-17": 8
     }
   },
   {
@@ -1014,7 +1018,7 @@
     "time": 1607,
     "timeDay": 995,
     "timeWeek": 1458,
-    "timeMonth": 1363,
+    "timeMonth": 1296,
     "timeYear": 1630,
     "dailyMinutesDown": {
       "2025-11-10": 30,
@@ -1048,7 +1052,7 @@
     "time": 177,
     "timeDay": 29,
     "timeWeek": 225,
-    "timeMonth": 216,
+    "timeMonth": 212,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -1121,7 +1125,7 @@
     "time": 190,
     "timeDay": 51,
     "timeWeek": 169,
-    "timeMonth": 189,
+    "timeMonth": 190,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-08-29": 76,
@@ -1229,7 +1233,8 @@
       "2026-04-23": 658,
       "2026-05-15": 308,
       "2026-05-29": 73,
-      "2026-08-16": 1432,
+      "2026-08-17": 9,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1318,8 +1323,8 @@
     "status": "up",
     "uptime": "92.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.79%",
-    "uptimeMonth": "15.30%",
+    "uptimeWeek": "74.96%",
+    "uptimeMonth": "15.34%",
     "uptimeYear": "91.70%",
     "time": 166,
     "timeDay": 342,
@@ -1408,7 +1413,7 @@
     "time": 195,
     "timeDay": 61,
     "timeWeek": 127,
-    "timeMonth": 147,
+    "timeMonth": 145,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-12-05": 38,
@@ -1466,7 +1471,7 @@
     "time": 281,
     "timeDay": 786,
     "timeWeek": 604,
-    "timeMonth": 594,
+    "timeMonth": 600,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2026-02-03": 33,
