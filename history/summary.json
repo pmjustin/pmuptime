@@ -4,11 +4,11 @@
     "url": "https://personablemedia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/personablemedia.com.ico",
     "slug": "personable-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "99.15%",
     "time": 194,
     "timeDay": 200,
@@ -64,7 +64,8 @@
       "2026-08-13": 41,
       "2026-08-14": 133,
       "2026-08-16": 17,
-      "2026-08-17": 49
+      "2026-08-17": 49,
+      "2026-08-22": 16
     }
   },
   {
@@ -190,12 +191,12 @@
     "url": "https://michaelbaileylawllc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/michaelbaileylawllc.com.ico",
     "slug": "michael-bailey-law-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.99%",
     "time": 159,
     "timeDay": 110,
     "timeWeek": 148,
@@ -251,7 +252,8 @@
       "2026-08-13": 36,
       "2026-08-14": 123,
       "2026-08-16": 12,
-      "2026-08-17": 49
+      "2026-08-17": 49,
+      "2026-08-22": 11
     }
   },
   {
@@ -378,7 +380,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.03%",
+    "uptimeYear": "69.02%",
     "time": 152,
     "timeDay": 0,
     "timeWeek": 0,
@@ -430,7 +432,7 @@
       "2026-04-22": 1440,
       "2026-04-21": 1164,
       "2026-05-15": 308,
-      "2026-08-22": 942,
+      "2026-08-22": 975,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -592,11 +594,11 @@
     "url": "https://jmslawltd.com",
     "icon": "https://icons.duckduckgo.com/ip3/jmslawltd.com.ico",
     "slug": "jms-law",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "98.78%",
     "time": 213,
     "timeDay": 135,
@@ -660,7 +662,8 @@
       "2026-08-13": 31,
       "2026-08-14": 114,
       "2026-08-16": 7,
-      "2026-08-17": 48
+      "2026-08-17": 48,
+      "2026-08-22": 6
     }
   },
   {
@@ -732,10 +735,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
     "status": "up",
-    "uptime": "94.77%",
-    "uptimeDay": "92.73%",
-    "uptimeWeek": "89.86%",
-    "uptimeMonth": "91.32%",
+    "uptime": "94.76%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "91.34%",
     "uptimeYear": "88.93%",
     "time": 391,
     "timeDay": 395,
@@ -811,7 +814,7 @@
       "2026-08-19": 82,
       "2026-08-20": 237,
       "2026-08-21": 125,
-      "2026-08-22": 31
+      "2026-08-22": 19
     }
   },
   {
@@ -821,9 +824,9 @@
     "slug": "kristi-hancock-law",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "92.04%",
-    "uptimeMonth": "92.34%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "92.36%",
     "uptimeYear": "99.28%",
     "time": 363,
     "timeDay": 268,
@@ -855,8 +858,7 @@
       "2026-08-18": 150,
       "2026-08-19": 53,
       "2026-08-20": 180,
-      "2026-08-21": 115,
-      "2026-08-22": 7
+      "2026-08-21": 115
     }
   },
   {
@@ -989,9 +991,9 @@
     "slug": "angel-latterell-law",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "93.46%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.32%",
     "time": 278,
     "timeDay": 437,
@@ -1030,8 +1032,7 @@
       "2026-08-18": 136,
       "2026-08-19": 44,
       "2026-08-20": 141,
-      "2026-08-21": 105,
-      "2026-08-22": 2
+      "2026-08-21": 105
     }
   },
   {
@@ -1073,10 +1074,10 @@
     "url": "https://relationshipremedynow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/relationshipremedynow.com.ico",
     "slug": "relationship-remedy-now",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.17%",
     "time": 178,
@@ -1139,7 +1140,8 @@
       "2026-08-13": 26,
       "2026-08-14": 104,
       "2026-08-16": 17,
-      "2026-08-17": 62
+      "2026-08-17": 62,
+      "2026-08-22": 1
     }
   },
   {
@@ -1265,7 +1267,7 @@
       "2026-04-23": 658,
       "2026-05-15": 308,
       "2026-05-29": 73,
-      "2026-08-22": 942,
+      "2026-08-22": 976,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1361,7 +1363,7 @@
     "uptime": "92.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.91%",
+    "uptimeMonth": "33.99%",
     "uptimeYear": "91.70%",
     "time": 170,
     "timeDay": 705,
