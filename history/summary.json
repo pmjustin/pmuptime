@@ -326,8 +326,8 @@
     "slug": "higher-mind-healing",
     "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "35.65%",
-    "uptimeWeek": "90.81%",
+    "uptimeDay": "35.50%",
+    "uptimeWeek": "90.79%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "95.69%",
     "time": 256,
@@ -372,7 +372,7 @@
       "2026-07-19": 270,
       "2026-07-18": 16,
       "2026-07-24": 172,
-      "2026-08-23": 927
+      "2026-08-23": 929
     }
   },
   {
@@ -437,7 +437,7 @@
       "2026-04-22": 1440,
       "2026-04-21": 1164,
       "2026-05-15": 308,
-      "2026-08-23": 1271,
+      "2026-08-23": 1273,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -742,16 +742,16 @@
     "url": "https://caricomattorneys.com",
     "icon": "https://icons.duckduckgo.com/ip3/caricomattorneys.com.ico",
     "slug": "caricom-law",
-    "status": "down",
+    "status": "up",
     "uptime": "94.77%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "90.44%",
+    "uptimeDay": "94.60%",
+    "uptimeWeek": "90.43%",
     "uptimeMonth": "91.11%",
     "uptimeYear": "88.91%",
     "time": 396,
-    "timeDay": 332,
-    "timeWeek": 390,
-    "timeMonth": 449,
+    "timeDay": 297,
+    "timeWeek": 385,
+    "timeMonth": 447,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -823,7 +823,7 @@
       "2026-08-20": 237,
       "2026-08-21": 125,
       "2026-08-22": 67,
-      "2026-08-23": 55
+      "2026-08-23": 56
     }
   },
   {
@@ -831,14 +831,14 @@
     "url": "https://khancocklaw.com",
     "icon": "https://icons.duckduckgo.com/ip3/khancocklaw.com.ico",
     "slug": "kristi-hancock-law",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "92.69%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "92.67%",
     "uptimeMonth": "92.20%",
     "uptimeYear": "99.27%",
-    "time": 333,
-    "timeDay": 404,
+    "time": 334,
+    "timeDay": 394,
     "timeWeek": 335,
     "timeMonth": 346,
     "timeYear": 372,
@@ -869,7 +869,7 @@
       "2026-08-20": 180,
       "2026-08-21": 115,
       "2026-08-22": 28,
-      "2026-08-23": 40
+      "2026-08-23": 41
     }
   },
   {
@@ -1002,16 +1002,16 @@
     "url": "https://latterelllaw.com/",
     "icon": "https://icons.duckduckgo.com/ip3/latterelllaw.com.ico",
     "slug": "angel-latterell-law",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "94.24%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "94.22%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "99.31%",
     "time": 282,
-    "timeDay": 478,
-    "timeWeek": 375,
-    "timeMonth": 346,
+    "timeDay": 426,
+    "timeWeek": 370,
+    "timeMonth": 345,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-08-29": 75,
@@ -1047,7 +1047,7 @@
       "2026-08-20": 141,
       "2026-08-21": 105,
       "2026-08-22": 23,
-      "2026-08-23": 1
+      "2026-08-23": 2
     }
   },
   {
@@ -1283,7 +1283,7 @@
       "2026-04-23": 658,
       "2026-05-15": 308,
       "2026-05-29": 73,
-      "2026-08-23": 1271,
+      "2026-08-23": 1273,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
